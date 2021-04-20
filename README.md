@@ -1,2 +1,2 @@
 # Two-Sided-Markets
-Final research paper from CS 234 about two sided matching algorithms and Tinder
+Research paper exploring how the Tinder desirability score affects the matching algorithm of two sided matching markets simulated with deferred acceptance algorithm and pertaining to various market conditions.
